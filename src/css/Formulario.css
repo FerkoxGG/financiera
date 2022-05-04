@@ -1,0 +1,73 @@
+.container1 {
+  padding-top: 12rem;
+  padding-left: 100px;
+}
+.container2 {
+  /*rectanguloconrellenodedatosderutempresa,actividadaaseguraryunbotonquedigaCotizarSeguro*/padding-left: 100px;
+  background-color: white;
+  border-radius: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 9px;
+  padding-left: 9px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3.5rem;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+.backg {
+  background-image: url(../img/2_banner-test.png);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:80vh;
+
+}
+.myButton {
+	box-shadow:inset 0px 0px 0px 0px #cf866c;
+	background:linear-gradient(to bottom, #d0451b 5%, #cc2908 100%);
+	background-color:#d0451b;
+	border-radius:50px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:10px 60px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #854629;
+	-webkit-border-radius:50px;
+	-moz-border-radius:50px;
+	-ms-border-radius:50px;
+	-o-border-radius:50px;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #cc2908 5%, #d0451b 100%);
+	background-color:#cc2908;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.red-underlane {
+  background-color: #ff0000;
+  color: white;
+  padding: 1px 3rem;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1rem;
+}
+.textmin {
+  font-size: 0.8rem;
+}
+.separador-test {
+  margin-top: 5rem;
+  margin-bottom: 3rem;
+}
+.demo-option-label-item > span {
+  margin-right: 6px;
+}
